@@ -3,18 +3,17 @@
 
 .cache
 .history
-.lib/
+lib/
 dist/*
 target/
 lib_managed/
 src_managed/
-project/boot/
-project/plugins/project/
+project/target/
+project/project/
 
 .scala_dependencies
 .worksheet
 
 .idea
 
-**/local.conf
-
+.DS_Store
